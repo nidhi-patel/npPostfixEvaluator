@@ -1,10 +1,5 @@
 //================================================================
 // Name              : Nidhi Patel
-// SID               : 31379144
-// Course            : IT114
-// Section           : 452
-// Instructor 	     : Maura Deek
-// Assignment #      : Programming Assignment 4
 // Date        	     :  04/08/2016
 // Description       : This program evaluates postfix expressions.
 //=================================================================
